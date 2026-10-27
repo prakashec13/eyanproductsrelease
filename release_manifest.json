@@ -1,14 +1,15 @@
 {
-  "versionName": "1.0.1",
-  "revision": 2,
-  "apkPath": "releases/v1.0.1-2/app-release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.1-2/app-release.apk",
+  "versionName": "1.0.2",
+  "revision": 3,
+  "apkPath": "releases/v1.0.2-3/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.2-3/app-release.apk",
   "changelog": [
-    "Prevent the dashboard from appearing before the session check finishes.",
-    "Provide Android downloads from the dedicated public Eyan release branch."
+    "Fix inventory search width and keep search text readable on desktop.",
+    "Replace clothing icons with category-specific Eyan product icons.",
+    "Use matching product icons in inventory, adjustments, and product selectors."
   ],
   "forceUpdate": false,
   "minSupportedRevision": 1,
-  "sha256": "4c4469285a0cec1e55ee3566ddc2a3092190cc5d9125e6fba331fe3b118e2b54",
-  "sizeBytes": 74052510
+  "sha256": "4263341b326da389c486bdde5e960f1a02a7e519c0ee2ef106c2a0ce323f1b7e",
+  "sizeBytes": 74053182
 }

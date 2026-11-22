@@ -1,14 +1,13 @@
 {
-  "versionName": "1.0.3",
-  "revision": 4,
-  "apkPath": "releases/v1.0.3-4/app-release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.3-4/app-release.apk",
+  "versionName": "1.0.4",
+  "revision": 5,
+  "apkPath": "releases/v1.0.4-5/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.4-5/app-release.apk",
   "changelog": [
-    "Add updated sales, analytics, barcode labels and printing features.",
-    "Retain Eyan branding and product-specific inventory icons."
+    "Add Powered by VZP Technologies attribution."
   ],
   "forceUpdate": false,
   "minSupportedRevision": 1,
-  "sha256": "b913d8b548e7143af32f1337459dfbdfd4bec63ee718f77026b0a2e81bb64526",
+  "sha256": "3f5e9a2e8cd2434e3e38363e09a4b14870cdce029b56d7210ad4dd0eacee819d",
   "sizeBytes": 94400040
 }

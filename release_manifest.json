@@ -1,13 +1,14 @@
 {
-  "versionName": "1.0.4",
-  "revision": 5,
-  "apkPath": "releases/v1.0.4-5/app-release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.4-5/app-release.apk",
+  "versionName": "1.0.5",
+  "revision": 6,
+  "apkPath": "releases/v1.0.5-6/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.5-6/app-release.apk",
   "changelog": [
-    "Add Powered by VZP Technologies attribution."
+    "Improve thermal receipts and add optional invoice QR codes.",
+    "Add Eyan logo to QR product labels and update attribution."
   ],
   "forceUpdate": false,
   "minSupportedRevision": 1,
-  "sha256": "3f5e9a2e8cd2434e3e38363e09a4b14870cdce029b56d7210ad4dd0eacee819d",
+  "sha256": "cf0c963572b027ad11a831b9e70dc0cc2671dc31f8ebdc3cd6120bec70b1ced5",
   "sizeBytes": 94400040
 }
